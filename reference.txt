@@ -1,0 +1,11 @@
+코로나 데이터
+https://kdx.kr/data/view/25918
+
+[Correlation between climate indicators and COVID-19 pandemic in New York, USA]
+https://www.sciencedirect.com/science/article/pii/S0048969720323524
+
+[Correlation of ambient temperature and COVID-19 incidence in Canada]
+https://www.sciencedirect.com/science/article/pii/S0048969720350130
+
+[Non-linear correlation between daily new cases of COVID-19 and meteorological factors in 127 countries]
+https://www.sciencedirect.com/science/article/pii/S0013935120314183
