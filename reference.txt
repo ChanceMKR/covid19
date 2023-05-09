@@ -1,6 +1,12 @@
 코로나 데이터
 https://kdx.kr/data/view/25918
 
+날씨 데이터 - 일별 평균기온, 최고기온, 일교차
+https://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do
+
+코로나 거리두기 단계
+https://ko.wikipedia.org/wiki/%EC%82%AC%ED%9A%8C%EC%A0%81_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0
+
 [Correlation between climate indicators and COVID-19 pandemic in New York, USA]
 https://www.sciencedirect.com/science/article/pii/S0048969720323524
 
